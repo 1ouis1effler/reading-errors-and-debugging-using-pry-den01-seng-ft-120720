@@ -1,5 +1,4 @@
 def plus_two(num)
-  num + 1   
+  4 + 1 = num 
   num 
-inding.pry   b
 end 
